@@ -1,4 +1,4 @@
-
+![photo](https://github.com/Rejwana7/Bike-zone-website/blob/main/images/bike%20zone.png)
 
 # Bike Zone Website
 
