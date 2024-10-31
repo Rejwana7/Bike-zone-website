@@ -1,4 +1,4 @@
-![photo](https://rejwana7.github.io/Bike-zone-website/images/slider/bike1.png)
+![photo]("D:\Programming hero\bike zone.png")
 
 # Bike Zone Website
 
